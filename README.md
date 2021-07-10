@@ -1,4 +1,4 @@
-#Learning Pytest
+# Learning Pytest
 
 Learning the basics of Pytest using examples taken from the course: `'Introduction to Pytest' by Andrew Knight` from the `Test Automation University` website. 
 
